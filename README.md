@@ -1,3 +1,3 @@
 # xivrotations
 
-# Hwody
+# Howdy.

@@ -1,4 +1,4 @@
 # xivrotations
 
-# Howdy. mwoesdy
+# Howdy.
 

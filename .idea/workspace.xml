@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24cf6235-570a-4b39-b59e-9fb097e43d1b" name="Changes" comment="git add .">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.eslintrc.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/playwright.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/app.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-welcome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-welcome.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/Counter.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/Header.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/about/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/about/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/+page.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/game.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/game.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/how-to-play/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/how-to-play/+page.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/reduced-motion.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/words.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/static/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/static/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/svelte.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/tests/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xivRotations/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="v0.1.0" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lyr7AiFQZ6McgWB1a3EXNiZqqP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aaron/WebstormProjects/xivrotations/src/modules&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aaron\WebstormProjects\xivrotations\src\modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aaron\WebstormProjects\xivrotations" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24cf6235-570a-4b39-b59e-9fb097e43d1b" name="Changes" comment="" />
+      <created>1676853994051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676853994051</updated>
+      <workItem from="1676853996054" duration="2711000" />
+      <workItem from="1680530739514" duration="2831000" />
+      <workItem from="1683922732278" duration="831000" />
+      <workItem from="1683923594125" duration="1256000" />
+      <workItem from="1683938869345" duration="844000" />
+    </task>
+    <task id="LOCAL-00001" summary="Remove previous file structure for new npm react app.">
+      <created>1683924025667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683924025667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactor to dir above">
+      <created>1683924464032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683924464032</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change from React &gt; Svelte">
+      <created>1683939616722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683939616722</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Remove previous file structure for new npm react app." />
+    <MESSAGE value="Refactor to dir above" />
+    <MESSAGE value="Change from React &gt; Svelte" />
+    <MESSAGE value="git add ." />
+    <option name="LAST_COMMIT_MESSAGE" value="git add ." />
+  </component>
+</project>

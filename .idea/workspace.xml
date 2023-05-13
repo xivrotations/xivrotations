@@ -5,47 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24cf6235-570a-4b39-b59e-9fb097e43d1b" name="Changes" comment="git add .">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.eslintrc.cjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.npmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/playwright.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/app.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/app.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-welcome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/lib/images/svelte-welcome.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+layout.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/+page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/Counter.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/Header.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/about/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/about/+page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/+page.server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/game.test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/game.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/how-to-play/+page.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/how-to-play/+page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/reduced-motion.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/src/routes/sverdle/words.server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/static/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/static/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/svelte.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/tests/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xivRotations/vite.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xivRotations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/xivRotations/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,6 +66,7 @@
       <workItem from="1683922732278" duration="831000" />
       <workItem from="1683923594125" duration="1256000" />
       <workItem from="1683938869345" duration="844000" />
+      <workItem from="1683939734294" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="Remove previous file structure for new npm react app.">
       <created>1683924025667</created>
